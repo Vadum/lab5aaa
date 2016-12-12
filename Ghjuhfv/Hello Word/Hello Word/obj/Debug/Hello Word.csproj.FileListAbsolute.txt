@@ -1,0 +1,6 @@
+D:\3 Курс\1 Семестр\Технології створ. програм. продуктів\Готові\Ghjuhfv\Hello Word\Hello Word\bin\Debug\Hello Word.exe.config
+D:\3 Курс\1 Семестр\Технології створ. програм. продуктів\Готові\Ghjuhfv\Hello Word\Hello Word\bin\Debug\Hello Word.exe
+D:\3 Курс\1 Семестр\Технології створ. програм. продуктів\Готові\Ghjuhfv\Hello Word\Hello Word\bin\Debug\Hello Word.pdb
+D:\3 Курс\1 Семестр\Технології створ. програм. продуктів\Готові\Ghjuhfv\Hello Word\Hello Word\obj\Debug\Hello Word.csprojResolveAssemblyReference.cache
+D:\3 Курс\1 Семестр\Технології створ. програм. продуктів\Готові\Ghjuhfv\Hello Word\Hello Word\obj\Debug\Hello Word.exe
+D:\3 Курс\1 Семестр\Технології створ. програм. продуктів\Готові\Ghjuhfv\Hello Word\Hello Word\obj\Debug\Hello Word.pdb
